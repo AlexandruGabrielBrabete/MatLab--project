@@ -56,6 +56,13 @@ It was developed as part of university coursework at the Technical University of
 - For exporting plots, ensure the `figures/` folder has write permission or change the output path.
 - Comments in the code explain each step of the signal processing workflow.
 
+## Author
+
+**Name:** Alexandru-Gabriel Brabete  
+**University:** Technical University of Cluj-Napoca  
+**Field:** Electronics, Telecommunications and Information Technology  
+**Year:** 2nd year.
+
 ## License
 
 This project is provided for academic and educational purposes. Distribution and reuse allowed with proper attribution.
